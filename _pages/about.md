@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a income Ph.D. student at [INSAIT](https://insait.ai/), under the supervision of [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and [Danda Pani Paudel](https://scholar.google.ch/citations?user=W43pvPkAAAAJ&hl=en). Previously, I obtained my master degree from Xidian University,  in June 2025. Before that I received my B.E degree from Chang'an University, China, in July 2022. I was an intern or visiting student at Tele AI under the supervised by [Jiawei Shao](https://shaojiawei07.github.io/) and [Xuedong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN).
 
 A data-driven personal website
 ======
