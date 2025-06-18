@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a income Ph.D. student at [INSAIT](https://insait.ai/), under the supervision of [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and [Danda Pani Paudel](https://scholar.google.ch/citations?user=W43pvPkAAAAJ&hl=en). Previously, I obtained my master degree from Xidian University,  in June 2025. Before that I received my B.E degree from Chang'an University, China, in July 2022. I was an intern or visiting student at Tele AI under the supervised by [Jiawei Shao](https://shaojiawei07.github.io/) and [Xuedong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN).
+I am a income Ph.D. student at [INSAIT](https://insait.ai/), under the supervision of [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and [Danda Pani Paudel](https://scholar.google.ch/citations?user=W43pvPkAAAAJ&hl=en). Previously, I obtained my master degree from Xidian University,  in June 2025. Before that I received my B.E degree from Chang'an University, China, in July 2022. I was an intern or visiting student at Tele AI under the supervised by [Jiawei Shao](https://shaojiawei07.github.io/) and [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN).
 
 A data-driven personal website
 ======
