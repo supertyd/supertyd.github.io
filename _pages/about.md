@@ -10,7 +10,8 @@ I am a income Ph.D. student at [INSAIT](https://insait.ai/), under the supervisi
 
 Publications
 ======
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='https://github.com/zzc-1998/zzc-1998.github.io/blob/main/images/qbench+.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publication/compresstracker/compresstracker.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 What You Have is What You Track: Adaptive and Robust Multimodal Tracking
@@ -21,7 +22,8 @@ What You Have is What You Track: Adaptive and Robust Multimodal Tracking
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='https://github.com/zzc-1998/Benchmark-Redundancy/blob/main/ceaser.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publication/compresstracker/compresstracker.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 XTrack: Multimodal Training Boosts RGB-X Video Object Trackers
@@ -32,7 +34,8 @@ XTrack: Multimodal Training Boosts RGB-X Video Object Trackers
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='https://github.com/Q-Future/Q-Bench-Video/raw/main/dataset_statistics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publication/compresstracker/compresstracker.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 HyperTrack: A Unified Network for Hyperspectral Video Object Tracking
@@ -43,7 +46,8 @@ HyperTrack: A Unified Network for Hyperspectral Video Object Tracking
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='https://github.com/Q-Future/Q-SiT/raw/main/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/publication/compresstracker/compresstracker.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking
@@ -53,7 +57,8 @@ HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Whisper 2023</div><img src='https://github.com/zzc-1998/Q-Eval/raw/main/overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Whisper 2023</div><img src='images/publication/compresstracker/compresstracker.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention
@@ -63,7 +68,8 @@ HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='https://github.com/Q-Future/A-Bench/blob/main/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publication/compresstracker/compresstracker.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 Complexity Experts are Task-Discriminative Learners for Any Image Restoration
