@@ -62,7 +62,7 @@ HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking
 <div class='paper-box-text' markdown="1">
 
 HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention
-- Yuedong Tan, Wenfang sun, Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song
+- **Yuedong Tan\***, Wenfang sun, Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song
 - [**[Paper]**](https://ieeexplore.ieee.org/document/10431060) [**[Repo]**](https://github.com/supertyd/hotmoe)
 
 </div>
@@ -73,7 +73,7 @@ HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention
 <div class='paper-box-text' markdown="1">
 
 Complexity Experts are Task-Discriminative Learners for Any Image Restoration
-- Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte
+- Eduard Zamfir, Zongwei Wu, Nancy Mehta, **Yuedong Tan\***, Danda Pani Paudel, Yulun Zhang, Radu Timofte
 - [**[Paper]**](https://arxiv.org/abs/2411.18466) [**[Repo]**](https://github.com/eduardzamfir/MoCE-IR)
 
 </div>
