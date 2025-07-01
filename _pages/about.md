@@ -11,7 +11,7 @@ I am an incoming Ph.D. student at [INSAIT](https://insait.ai/), under the superv
 
 ## Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='https://raw.githubusercontent.com/supertyd/supertyd.github.io/master/_pages/papers/flextrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='papers/flextrack.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -22,7 +22,7 @@ What You Have is What You Track: Adaptive and Robust Multimodal Tracking
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='https://raw.githubusercontent.com/supertyd/supertyd.github.io/master/_pages/papers/xtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='papers/xtrack.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -33,7 +33,7 @@ XTrack: Multimodal Training Boosts RGB-X Video Object Trackers
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='https://raw.githubusercontent.com/supertyd/supertyd.github.io/master/_pages/papers/hypertrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='papers/hypertrack.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -44,7 +44,7 @@ HyperTrack: A Unified Network for Hyperspectral Video Object Tracking
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='https://raw.githubusercontent.com/supertyd/supertyd.github.io/master/_pages/papers/hotmoe.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='papers/hotmoe.jpg' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -55,7 +55,7 @@ HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Whisper 2023</div><img src='https://raw.githubusercontent.com/supertyd/supertyd.github.io/master/_pages/papers/hhtrack.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Whisper 2023</div><img src='papers/hhtrack.jpg' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -66,7 +66,7 @@ HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='https://raw.githubusercontent.com/supertyd/supertyd.github.io/master/_pages/papers/moce-ir.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='papers/moce-ir.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
